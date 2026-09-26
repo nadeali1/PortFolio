@@ -70,10 +70,10 @@ export default function Resume() {
 
         {/* Action buttons */}
         <div style={{ display: 'flex', gap: 16, justifyContent: 'center', flexWrap: 'wrap' }}>
-          <ResumeBtn icon={<DownloadIcon size={17} />} href="/Nade-Ali's-Resume.pdf" download primary>
+          <ResumeBtn icon={<DownloadIcon size={17} />} href="/Nadeali's-Resume.pdf" download primary>
             Download Resume
           </ResumeBtn>
-          <ResumeBtn icon={<ExternalIcon size={16} />} href="/Nade-Ali's-Resume.pdf" target="_blank">
+          <ResumeBtn icon={<ExternalIcon size={16} />} href="/Nadeali's-Resume.pdf" target="_blank">
             View Resume
           </ResumeBtn>
         </div>
@@ -87,7 +87,7 @@ export default function Resume() {
             Prefer to reach out directly?{' '}
             <a href={`mailto:${INFO.email}`} style={{
               color: C.muted, fontWeight: 600, textDecoration: 'none',
-            }}>Send me an email</a>{' '}
+            }}>Send me an email</a>{'nadealihere1212@gmail.com '}
             or connect on{' '}
             <a href={INFO.linkedin} target="_blank" rel="noopener noreferrer" style={{
               color: C.muted, fontWeight: 600, textDecoration: 'none',

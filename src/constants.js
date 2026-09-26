@@ -10,7 +10,7 @@ export const C = {
 // ─── Personal Info ───────────────────────────────
 export const INFO = {
   name:     "Nade Ali",
-  title:    "React Frontend Developer & CS Student",
+  title:    "Frontend & WordPress Developer",
   email:    "nadealihere1212@gmail.com",
   phone:    "+92 335 2369998",
   location: "Karachi, Pakistan",

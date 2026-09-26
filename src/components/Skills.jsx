@@ -14,16 +14,16 @@ const skillGroups = [
       { name: 'CSS3 & Responsive',     level: 88 },
     ],
   },
-  {
-    category: 'Programming Languages',
-    icon: '◈',
-    color: C.deep,
-    skills: [
-      { name: 'Java',  level: 78 },
-      { name: 'C',     level: 72 },
-      { name: 'C++',   level: 70 },
-    ],
-  },
+  // {
+  //   category: 'Programming Languages',
+  //   icon: '◈',
+  //   color: C.deep,
+  //   skills: [
+  //     { name: 'Java',  level: 78 },
+  //     { name: 'C',     level: 72 },
+  //     { name: 'C++',   level: 70 },
+  //   ],
+  // },
   {
     category: 'Tools & Technologies',
     icon: '◫',

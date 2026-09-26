@@ -70,7 +70,7 @@ export default function Hero() {
             color: C.deep, fontWeight: 600, marginBottom: 20,
             letterSpacing: '0.2px',
           }}>
-            React Frontend Developer &amp; CS Student
+            Frontend &amp; WordPress Developer
           </p>
 
           <p style={{
@@ -78,9 +78,9 @@ export default function Hero() {
             fontSize: 16, color: `${C.ash}99`,
             lineHeight: 1.8, maxWidth: 480, marginBottom: 40,
           }}>
-            I build modern, responsive, and user-friendly web applications
-            using React and JavaScript. Passionate about crafting elegant
-            digital experiences that make an impact.
+            I build modern, responsive websites and web applications using React,
+            JavaScript, WordPress, Elementor, and WooCommerce — with a focus
+            on clean UI, usability, and real-world business needs.
           </p>
 
           {/* CTA Buttons */}
@@ -192,14 +192,14 @@ function ProfileFrame() {
       <FloatingTag style={{ bottom: -12, right: -28 }}>
         <span style={{ width: 7, height: 7, borderRadius: '50%', background: C.muted, flexShrink: 0 }} />
         <span style={{ fontSize: 12, color: C.ash, fontFamily: "'Inter', sans-serif", fontWeight: 500 }}>
-          React Dev
+          Web Developer
         </span>
       </FloatingTag>
 
       {/* Floating tag — top-left */}
       <FloatingTag style={{ top: 20, left: -36 }}>
         <span style={{ fontSize: 12, color: C.muted, fontFamily: "'JetBrains Mono', monospace", fontWeight: 600 }}>
-          {'< Frontend />'}
+          {'< React + WP />'}
         </span>
       </FloatingTag>
     </div>

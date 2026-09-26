@@ -2,7 +2,7 @@ import { C } from '../constants';
 import { Section, SectionHeader, Card, Tag } from './UI';
 
 const highlights = [
-  { label: 'Focus', value: 'React & JavaScript' },
+  { label: 'Focus', value: 'React & WordPress' },
   { label: 'Degree', value: 'BS Computer Science' },
   { label: 'University', value: 'SMIU, Karachi' },
   { label: 'Status', value: 'Available for work' },
@@ -10,7 +10,7 @@ const highlights = [
 
 const techStack = [
   'React.js', 'JavaScript', 'HTML5', 'CSS3',
-  'Java', 'C', 'C++', 'Git', 'WordPress',
+  'WordPress', 'Elementor', 'WooCommerce', 'Git', 'Java',
 ];
 
 export default function About() {
@@ -41,8 +41,8 @@ export default function About() {
           }}>
             I'm a Computer Science student with a strong passion for frontend
             development and modern web technologies. My primary focus is
-            React development, where I enjoy building responsive, interactive,
-            and user-friendly web applications.
+            React and WordPress development, where I enjoy building responsive, interactive,
+            and user-friendly websites and web applications.
           </p>
 
           <p style={{
