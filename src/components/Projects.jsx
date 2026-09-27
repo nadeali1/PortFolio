@@ -11,8 +11,8 @@ const projects = [
     title: 'HireFlow — AI Resume Analyzer',
     description: 'A portfolio-grade MERN application for resume analysis and application tracking, with Gemini-powered resume feedback, responsive dashboards, and a clean component-based interface.',
     tags: ['React.js', 'Node.js', 'Express', 'MongoDB', 'Gemini API'],
-    github: INFO.github, // Replace with the exact HireFlow repository URL
-    demo: '',           // Paste HireFlow live URL here
+    github: 'https://github.com/nadeali1/Hireflow-AI-ATS', // Replace with the exact HireFlow repository URL
+    demo: 'https://hireflow-ai-ats-ecru.vercel.app/',           // Paste HireFlow live URL here
     category: 'React / MERN',
     featured: true,
     accentColor: C.muted,
